@@ -3,7 +3,7 @@
     "autoprefixer": "^10.4.0",
     "gulp": "^4.0.2",
     "gulp-postcss": "^9.0.1",
-    "postcss": "^8.3.11",
+    "postcss": "^8.4.31",
     "precss": "^4.0.0",
     "tailwindcss": "^2.2.19",
     "glob-parent": ">=5.1.2"
